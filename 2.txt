@@ -1,0 +1,17 @@
+#profile-title: Мой VPN
+#subscription-userinfo: upload=0; download=0; total=10737418240; expire=1893456000
+
+# --- ПЛАШКА-УВЕДОМЛЕНИЕ ---
+#sub-info-color: green
+#sub-info-text: 🎄 НОВОГОДНЯЯ АКЦИЯ! Год премиума за 990₽
+#sub-info-button-text: 🔥 Купить
+#sub-info-button-link: https://happ.su/sale
+
+vless://70cc48c5...@server.com:443#Сервер 1
+vmess://eyJ2IjoiMi... #Сервер 2
+ss://YWVzLTI1Ni1jZmI6cGFzc3dvcmQ=@80.92.204.106:9042#🇳🇱 NL - Shadowsocks?serverDescription=U2hhZG93c29ja3MgdGVzdA==
+
+socks://user:pass@quality.proxywing.com:1080#🇺🇸 US - SOCKS5?serverDescription=U29ja3M1IHByb3h5
+
+wireguard://password2key@123.123.123.2:10803?publickey=asd33d223d33&address=10.0.0.2/32&dns=1.1.1.1&mtu=1500#🇨🇭 CH - WireGuard?serverDescription=V2lyZUd1YXJkIHR1bm5lbA== 
+
