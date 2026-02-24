@@ -1,16 +1,8 @@
-#profile-title: base64:8J+GkyBOYW5vUGkgfCBTdWIxIHRlc3Qg8J+Ukg==
+#profile-title: base64:8J+GkyBOYW5vUGkgfCBTdWIxIHRlc3Qg8J+Ukg
+#announce: base64:8J+GkyBOYW5vUGkgfCBTdWIxIHRlc3Qg8J+Ukg
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=134217728000; expire=1733011200
 #support-url: https://t.me/vleesXrayVPN_bot?start=a68be86b
 #profile-web-page-url: https://t.me/vleesXrayVPN_bot?start=a68be86b
-#NanoPi
-vless://4a7367c5-3c77-400d-b292-dd01a3a6ecbf@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=2476f063981ffd92&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://4a7367c5-3c77-400d-b292-dd01a3a6ecbf@217.13.104.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=c8597fb67d55d9c4&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://4a7367c5-3c77-400d-b292-dd01a3a6ecbf@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=65ce6cee3941af69&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.13.104.128:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=-cDQPpiRCwOtfQ22cdCd3NkDlqpubdklZXaFGhwUfS8&sid=a20d3ed244c76426&type=tcp&headerType=none#%D0%A2%D0%B3%D0%BA%3A%20%40LowiK_Live
-vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://4a7367c5-3c77-400d-b292-dd01a3a6ecbf@217.13.104.134:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=travel.yandex.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.13.104.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=dcO8bQEVUFCdwPBpe7o1Dh7wjEryVtEV_dteYVm8LWw&sid=a20d3ed244c76426&type=tcp&headerType=none#%D0%A2%D0%B3%D0%BA%3A%20%40LowiK_Live
-vless://ea656f57-e4be-4e1c-b7a1-4bc74e3561b9@91.214.112.124:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nMBUEYNm6Pqy2OQabCzrEzstr0KoI8fCRKmtyH1i4Gw&sid=33&sni=sun6-22.userapi.com#0382 | 🇭🇺 Hungary | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+
+vmess://eyJob3N0IjoiZWxhaG9tZWtpdGNoZW4uY29tIiwicGF0aCI6IiIsInRscyI6IiIsImFkZCI6ImVsYWhvbWVraXRjaGVuLmNvbSIsInBvcnQiOjUwMDAsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoi4piB77iPIDogNTMuM0dCIiwiaWQiOiI4N2ZhN2VmMC1jM2ZjLTNiOTAtYTJkOC01OGZjYjhkZmZmMjYiLCJzZXJ2ZXJEZXNjcmlwdGlvbiI6IkhhcHAgdGhlIGJlc3QifQ==
