@@ -1,4 +1,6 @@
 #profile-title: base64:8J+GkyBOYW5vUGkgfCBTdWIxIHRlc3Qg8J+Ukg
+#sub-expire: 1
+##sub-expire-button-link: https:/t.me/generate
 #announce: base64:8J+GkyBOYW5vUGkgfCBTdWIxIHRlc3Qg8J+Ukg
 #profile-update-interval: 3
 #subscription-userinfo: upload=0; download=0; total=134217728000; expire=1733011200
@@ -6,3 +8,4 @@
 #profile-web-page-url: https://t.me/vleesXrayVPN_bot?start=a68be86b
 
 vmess://eyJob3N0IjoiZWxhaG9tZWtpdGNoZW4uY29tIiwicGF0aCI6IiIsInRscyI6IiIsImFkZCI6ImVsYWhvbWVraXRjaGVuLmNvbSIsInBvcnQiOjUwMDAsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoi4piB77iPIDogNTMuM0dCIiwiaWQiOiI4N2ZhN2VmMC1jM2ZjLTNiOTAtYTJkOC01OGZjYjhkZmZmMjYiLCJzZXJ2ZXJEZXNjcmlwdGlvbiI6IkhhcHAgdGhlIGJlc3QifQ==
+
