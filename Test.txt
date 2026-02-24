@@ -1,0 +1,63 @@
+#profile-update-interval: 3
+
+#profile-title: 🔥 Полный тестовый конфиг Happ
+
+#subscription-userinfo: upload=1024000; download=5242880000; total=10737418240; expire=1893456000
+
+#support-url: https://t.me/happ_support
+
+#profile-web-page-url: https://happ.su
+
+#announce: base64:0J/RgNC40LLQtdGCLCDRjdGC0L4g0YLQtdGB0YLQvtCy0YvQuSDQutC+0L3RhNC40LMhIPCfjJQ=
+
+#routing-enable: 1
+
+#custom-tunnel-config: {"enable":true,"mode":"split","ports":"22,80,443"}
+
+#new-url: https://cdn.happ.su/new-sub/uuid
+
+#new-domain: cdn.happ.su
+
+#sub-info-color: green
+
+#sub-info-text: 📢 У нас новый годовой план — скидка 40%
+
+#sub-info-button-text: 🎁 Купить
+
+#sub-info-button-link: https://happ.su/buy
+
+#sub-expire: 1
+
+#sub-expire-button-link: https://happ.su/renew
+
+#subscription-always-hwid-enable: 1
+
+#notification-subs-expire: 1
+
+#hide-settings: 0
+
+#server-address-resolve-enable: 1
+
+#server-address-resolve-dns-domain: https://common.dot.dns.yandex.net/dns-query
+
+#server-address-resolve-dns-ip: 77.88.8.8
+
+#subscription-autoconnect: 1
+
+#subscription-autoconnect-type: lowestdelay
+
+#subscription-ping-onopen-enabled: 1
+
+
+
+vless://70cc48c5-b2f4-4f1a-9b3c-8d9e7a6f5d4e@5.5.8.9:443?encryption=none&type=tcp&security=reality&sni=booking.com&fp=chrome&pbk=YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&xtls=2#🇩🇪 DE - Reality?serverDescription=UmVhbGl0eSBzZXJ2ZXIgLSBzdGFibGU=
+
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Pt8K34oCLIFVTIC0gVk1lc3MiLCJhZGQiOiIxOTIuMTY4LjEuMTAwIiwicG9ydCI6NDQzLCJpZCI6Ijg3ZmE3ZWYwLWMzZmMtM2I5MC1hMmQ4LTU4ZmNiOGRmZmYyNiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ1cy5leGFtcGxlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0=?serverDescription=RnJlZSB2bWVzcyBzZXJ2ZXI=
+
+trojan://password@199.107.164.105:443?security=tls&type=ws&host=quictest.burncommunity.ru&sni=quictest.burncommunity.ru&fp=chrome#🇫🇷 FR - Trojan?serverDescription=VHJvamFuIHdpdGggVExT
+
+ss://YWVzLTI1Ni1jZmI6cGFzc3dvcmQ=@80.92.204.106:9042#🇳🇱 NL - Shadowsocks?serverDescription=U2hhZG93c29ja3MgdGVzdA==
+
+socks://user:pass@quality.proxywing.com:1080#🇺🇸 US - SOCKS5?serverDescription=U29ja3M1IHByb3h5
+
+wireguard://password2key@123.123.123.2:10803?publickey=asd33d223d33&address=10.0.0.2/32&dns=1.1.1.1&mtu=1500#🇨🇭 CH - WireGuard?serverDescription=V2lyZUd1YXJkIHR1bm5lbA== 
